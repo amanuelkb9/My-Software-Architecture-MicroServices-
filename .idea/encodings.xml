@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Api-Gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Api-Gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Config-Server/Config-Server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Config-Server/Config-Server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Registry/Registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Registry/Registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReviewService/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ReviewService/books/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booksCommandService/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booksCommandService/books/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booksQueriesServiceOne/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booksQueriesServiceOne/books/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booksQueriesServiceTwo/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booksQueriesServiceTwo/books/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booksQueriesServiceTwo2/books/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/booksQueriesServiceTwo2/books/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/borrowingSevice/borrowingSevice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/borrowingSevice/borrowingSevice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/borrowingSeviceupdated/borrowingSevice/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/borrowingSeviceupdated/borrowingSevice/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customersService/customersService/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/customersService/customersService/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

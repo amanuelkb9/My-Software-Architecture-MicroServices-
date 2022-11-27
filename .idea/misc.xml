@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/customers/customers/pom.xml" />
+        <option value="$PROJECT_DIR$/customers/customersService/pom.xml" />
+        <option value="$PROJECT_DIR$/books/books/pom.xml" />
+        <option value="$PROJECT_DIR$/booksService/books/pom.xml" />
+        <option value="$PROJECT_DIR$/customersService/customersService/pom.xml" />
+        <option value="$PROJECT_DIR$/booksCommandService/books/pom.xml" />
+        <option value="$PROJECT_DIR$/booksQueriesServiceOne/books/pom.xml" />
+        <option value="$PROJECT_DIR$/ReviewService/books/pom.xml" />
+        <option value="$PROJECT_DIR$/borrowingSevice/borrowingSevice/pom.xml" />
+        <option value="$PROJECT_DIR$/Registry/Registry/pom.xml" />
+        <option value="$PROJECT_DIR$/Config-Server/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/Api-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Client/pom.xml" />
+        <option value="$PROJECT_DIR$/borrowingSeviceupdated/borrowingSevice/pom.xml" />
+        <option value="$PROJECT_DIR$/booksQueriesServiceTwo/books/pom.xml" />
+        <option value="$PROJECT_DIR$/booksQueriesServiceTwo2/books/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="books" />
+        <module name="books (2) (booksQueries1)" />
+        <module name="books (1) (booksQueries1)" />
+        <module name="books (1)" />
+        <module name="borrowingSevice (1)" />
+        <module name="customers" />
+        <module name="Registry" />
+        <module name="Client" />
+        <module name="Config-Server" />
+        <module name="Api-Gateway" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Api-Gateway" target="11" />
+      <module name="books" target="11" />
+      <module name="books (1)" target="11" />
+      <module name="books (1) (booksQueries1)" target="11" />
+      <module name="books (2) (booksQueries1)" target="11" />
+      <module name="borrowingSevice" target="11" />
+      <module name="borrowingSevice (1)" target="11" />
+      <module name="Client" target="11" />
+      <module name="Config-Server" target="11" />
+      <module name="customers" target="11" />
+      <module name="customersService" target="11" />
+      <module name="Registry" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Api-Gateway" options="-parameters" />
+      <module name="Client" options="-parameters" />
+      <module name="Config-Server" options="-parameters" />
+      <module name="Registry" options="-parameters" />
+      <module name="books" options="-parameters" />
+      <module name="books (1)" options="-parameters" />
+      <module name="books (1) (booksQueries1)" options="-parameters" />
+      <module name="books (2) (booksQueries1)" options="-parameters" />
+      <module name="borrowingSevice" options="-parameters" />
+      <module name="borrowingSevice (1)" options="-parameters" />
+      <module name="customers" options="-parameters" />
+      <module name="customersService" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: customerService
+  zipkin:
+    base-url: http://localhost:9411/
+  cloud:
+    config:
+      import-check:
+        enabled: false
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: librarySystem
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: gid
+      auto-offset-reset: earliest
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
+      properties:
+        spring:
+          json:
+            trusted:
+              packages: '*'
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+sleuth:
+  sampler:
+    probability: 1 #100% (default = 10%)
+app:
+  topic: update
